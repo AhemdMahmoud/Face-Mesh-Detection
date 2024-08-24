@@ -4,7 +4,7 @@ This project implements real-time face mesh detection using OpenCV and MediaPipe
 
 ## Screenshot
 
-![Face Mesh Detection Screenshot](/api/placeholder/640/480)
+![Face Mesh Detection Screenshot](https://github.com/AhemdMahmoud/Face-Mesh-Detection/blob/main/face%20mish.png)
 
 *Note: This is a placeholder image. Replace it with an actual screenshot of your application in action.*
 
